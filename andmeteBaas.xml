@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tooded>
+  <toode>
+    <nimi>Diivan</nimi>
+    <hind>130</hind>
+    <varv>Sinine</varv>
+    <lisad>
+      <nimi>Padjad</nimi>
+      <suurus>40x20</suurus>
+    </lisad>
+  </toode>
+  <toode>
+    <nimi>Tool</nimi>
+    <hind>223</hind>
+    <varv>Pruun</varv>
+    <lisad>
+      <nimi>-</nimi>
+      <suurus>-</suurus>
+    </lisad>
+  </toode>
+  <toode>
+    <nimi>Diivan</nimi>
+    <hind>333</hind>
+    <varv>Kollane</varv>
+    <lisad>
+      <nimi>Padjad</nimi>
+      <suurus>50x20</suurus>
+    </lisad>
+  </toode>
+  <toode>
+    <nimi>Laud</nimi>
+    <hind>450</hind>
+    <varv>Must</varv>
+    <lisad>
+      <nimi>-</nimi>
+      <suurus>-</suurus>
+    </lisad>
+  </toode>
+</tooded>
